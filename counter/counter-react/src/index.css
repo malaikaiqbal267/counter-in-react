@@ -1,0 +1,28 @@
+#root{
+  border: 1px solid  #CE4048;
+  border-radius: 23px;
+  width: 20%;
+  margin: 40px auto;
+  background-color: burlywood;
+}
+.dec-btn{
+  background-color: #CE4048;
+  color: beige;
+  padding: 10px;
+  border: 3px solid burlywood;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.increment-btn{
+  background-color: #CE4048;
+  color: beige;
+  padding: 10px;
+  border: 3px solid burlywood;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.count{
+  font-size: 80px;
+  color: #CE4048;
+}
